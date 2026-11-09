@@ -1,12 +1,12 @@
 # Mini-Kasir
-Simple Python-based cashier system to simulate transaction processing, total unit purchased, calculate the total discount, and total price calculation.
+Cashier system for MSMEs is system to simulate transaction processing, total unit purchased, calculate the total discount, and total price calculation.
 
 ## 🧾 Mini-Kasir Project
 
-Mini Kasir Python adalah aplikasi kasir sederhana berbasis 100% bahasa Python.  
+kasir_untuk_warung adalah aplikasi kasir sederhana berbasis 100% bahasa Python.  
 Program ini memungkinkan pengguna untuk memasukkan data barang, harga, jumlah, diskon, dan menampilkan total belanja dalam bentuk struk.
 
-Project ini dibuat sebagai latihan logika, perulangan, input/output, dan perhitungan dasar.
+Project ini dibuat sebagai alat yang berguna untuk menghitung total belanja dari costumer.
 
 -----
 
@@ -35,7 +35,7 @@ Project ini dibuat sebagai latihan logika, perulangan, input/output, dan perhitu
    python --version
 2. Download atau clone repository ini
 3. Jalankan file program:
-   python Project_Kasir_Mini.py
+   python kasir_untuk_warung.py
 
 -----
 
@@ -51,10 +51,9 @@ Project ini dibuat sebagai latihan logika, perulangan, input/output, dan perhitu
 -----
 
 ## 🎯 Tujuan Project
-- Melatih logika pemprograman
-- Memahami perulangan (while loop)
-- Melatih penggunaan variabel dan tipe data
-- Latihan membuat program berbasis studi kasus nyata
+- Membantu warung atau UMKM untuk menghitung total produk
+- Membantu pembeli agar mengetahui total belanjaan
+- 
 
 -----
 
@@ -69,5 +68,3 @@ Artinya, siapa pun bebas untuk:
 - dan membagikan ulang
 
 project ini, selama tetap mencantumkan copyright dan lisensi asli.
-
-Lisensi ini dipilih karena sederhana dan cocok untuk project pembelajaran seperti Mini Kasir Python.
